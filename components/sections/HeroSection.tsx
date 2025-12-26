@@ -59,8 +59,8 @@ export function HeroSection() {
                     <div className="flex flex-col gap-4">
                         <div className="flex gap-4">
                             <SocialIcon href="https://www.linkedin.com/in/gilang-andira-pratama-802a691a5/" icon={Linkedin} />
-                            <SocialIcon href="#" icon={Github} />
-                            <SocialIcon href="#" icon={Instagram} />
+                            <SocialIcon href="https://github.com/gilangandira/" icon={Github} />
+                            <SocialIcon href="https://www.instagram.com/gilangandira/" icon={Instagram} />
                         </div>
 
                         <a href="/CV.pdf" download className="flex items-center gap-2 text-sm text-orange-500 font-semibold hover:underline">
